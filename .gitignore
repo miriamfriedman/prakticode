@@ -1,0 +1,15 @@
+# סרטונים
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# קבצי Word
+*.doc
+*.docx
+
+# תיקיות שלא מעלים
+node_modules/
+bin/
+obj/
+.vs/
