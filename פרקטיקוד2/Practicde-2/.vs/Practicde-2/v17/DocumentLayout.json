@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|c:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\practicde-2\\practicde-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|c:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\practicde-2\\practicde-2\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|c:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\practicde-2\\practicde-2\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|c:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\practicde-2\\practicde-2\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\Practicde-2\\Program.cs",
+              "RelativeDocumentMoniker": "Practicde-2\\Program.cs",
+              "ToolTip": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\Practicde-2\\Program.cs",
+              "RelativeToolTip": "Practicde-2\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:44:59.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\Practicde-2\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "Practicde-2\\HtmlHelper.cs",
+              "ToolTip": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\Practicde-2\\HtmlHelper.cs",
+              "RelativeToolTip": "Practicde-2\\HtmlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:34:14.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\Practicde-2\\Selector.cs",
+              "RelativeDocumentMoniker": "Practicde-2\\Selector.cs",
+              "ToolTip": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\Practicde-2\\Selector.cs",
+              "RelativeToolTip": "Practicde-2\\Selector.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:39:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "htmlElement.cs",
+              "DocumentMoniker": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\Practicde-2\\htmlElement.cs",
+              "RelativeDocumentMoniker": "Practicde-2\\htmlElement.cs",
+              "ToolTip": "C:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9 \u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D32\\Practicde-2\\Practicde-2\\htmlElement.cs",
+              "RelativeToolTip": "Practicde-2\\htmlElement.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:45:07.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

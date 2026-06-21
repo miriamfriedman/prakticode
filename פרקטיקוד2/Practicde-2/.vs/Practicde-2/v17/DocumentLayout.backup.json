@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practicde-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|d:\\practicde-2\\practicde-2\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|d:\\practicde-2\\practicde-2\\practicde-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\practicde-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|d:\\practicde-2\\practicde-2\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|d:\\practicde-2\\practicde-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|d:\\practicde-2\\practicde-2\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDC111B-7610-44AB-B47E-CBDC2870B674}|Practicde-2\\Practicde-2.csproj|solutionrelative:practicde-2\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practicde-2",
+              "DocumentMoniker": "D:\\Practicde-2\\Practicde-2\\Practicde-2.csproj",
+              "RelativeDocumentMoniker": "Practicde-2\\Practicde-2.csproj",
+              "ToolTip": "D:\\Practicde-2\\Practicde-2\\Practicde-2.csproj",
+              "RelativeToolTip": "Practicde-2\\Practicde-2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T13:27:18.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "htmlElement.cs",
+              "DocumentMoniker": "D:\\Practicde-2\\Practicde-2\\htmlElement.cs",
+              "RelativeDocumentMoniker": "Practicde-2\\htmlElement.cs",
+              "ToolTip": "D:\\Practicde-2\\Practicde-2\\htmlElement.cs",
+              "RelativeToolTip": "Practicde-2\\htmlElement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:52:19.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "D:\\Practicde-2\\Practicde-2\\Selector.cs",
+              "RelativeDocumentMoniker": "Practicde-2\\Selector.cs",
+              "ToolTip": "D:\\Practicde-2\\Practicde-2\\Selector.cs",
+              "RelativeToolTip": "Practicde-2\\Selector.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:39:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "D:\\Practicde-2\\Practicde-2\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "Practicde-2\\HtmlHelper.cs",
+              "ToolTip": "D:\\Practicde-2\\Practicde-2\\HtmlHelper.cs",
+              "RelativeToolTip": "Practicde-2\\HtmlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:34:14.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practicde-2\\Practicde-2\\Program.cs",
+              "RelativeDocumentMoniker": "Practicde-2\\Program.cs",
+              "ToolTip": "D:\\Practicde-2\\Practicde-2\\Program.cs",
+              "RelativeToolTip": "Practicde-2\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAwwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:21:11.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
